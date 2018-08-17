@@ -2,4 +2,4 @@ version: 0.1
 phases:
  post_build:
    commands:
-     - ./usr/bin/phpunit
+     - phpunit
